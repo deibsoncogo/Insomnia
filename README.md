@@ -8,7 +8,7 @@ Para criar uma API falsa usamos a dependência `JSON Server` onde para executar 
 ```bash
 yarn server
 ```
-```json
+```ts
 "server": "json-server db.json -w -d 750 -p 3333"
 // -w faz o server reiniciar ao detectar alterações
 // -d cria um atraso nas respostas das requisições
@@ -34,7 +34,7 @@ Com ela conseguimos coletar informações de forma dinâmica como um `ID` ou um 
 ## Função request
 Podemos utilizar para enviar algumas informações na requisição como um `cookie`
 
-## Exporta estrutura do projeto
+## Exportação da estrutura do projeto
 Podemos exportar os métodos criado para um projeto para assim conseguimos configurar ele sem a necessidade de ler a documentação do projeto, para isso basta selecionar a opção Import/Export no titulo do projeto e realizar oque deseja
 
 Para realizar a importação com facilidade podemos criar um [Insomnia Run Button](https://insomnia.rest/create-run-button) onde com ele basta clicar no botão para importa as informações
