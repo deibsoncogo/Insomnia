@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "id": "11dd3b35-efc5-4934-af2f-0ff0056fd21b",
+      "name": "Usuário Nov-21 09:11:58",
+      "age": 36,
+      "isLegalAge": true,
+      "createdAt": "2021-11-21T12:17:53.582Z",
+      "updatedAt": "2021-11-21T12:20:07.052Z"
+    },
+    {
+      "id": "25d148e7-5566-4ccf-9aaa-313da09176dd",
+      "name": "Usuário Nov-21 09:11:84",
+      "age": 25,
+      "isLegalAge": true,
+      "createdAt": "2021-11-21T12:17:59.847Z",
+      "updatedAt": "2021-11-21T12:17:59.847Z"
+    },
+    {
+      "id": "7b4e5eba-ed09-42ea-a7ea-7114d7d5da8b",
+      "name": "Usuário Nov-21 09:11:63",
+      "age": 25,
+      "isLegalAge": true,
+      "createdAt": "2021-11-21T12:19:22.635Z",
+      "updatedAt": "2021-11-21T12:19:22.636Z"
+    }
+  ],
+  "product": [
+    {
+      "id": "b6cd5085-8cd7-4cb3-9385-e26882d094ee",
+      "title": "Produtinho de teste",
+      "price": 45,
+      "idUser": "11dd3b35-efc5-4934-af2f-0ff0056fd21b",
+      "createdAt": "2021-11-21T12:19:29.982Z",
+      "updatedAt": "2021-11-21T12:19:29.982Z"
+    }
+  ]
+}
