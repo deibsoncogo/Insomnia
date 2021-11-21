@@ -42,3 +42,5 @@ Para realizar a importação com facilidade podemos criar um [Insomnia Run Butto
   4. Agora acessamos este [site](https://insomnia.rest/create-run-button) para criar
   5. Informamos um nome da aplicação e o link copiado
   6. Por último usamos o código `markdown snippet` para criar o botão no `Github`
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Testando%20o%20Insomnia&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fdeibsoncogo%2FInsomnia%2Fmaster%2FInsomnia-All_2021-11-21.json)
